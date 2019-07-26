@@ -9,6 +9,6 @@ anti ollvm like flat/bcf/sub
 
 不过目前代码还在实验阶段，在识别真实块和还原控制流以及patch修复方面还有很长的适配、兼容工作需要完成。
 
-Good Luck for me~
+Good luck for me~
 
 
